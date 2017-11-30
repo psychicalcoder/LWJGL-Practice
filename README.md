@@ -6,7 +6,7 @@
 * [JOML 1.9.4](https://github.com/JOML-CI/JOML/releases) \(The latest version is 1.9.6\)
 
 ## Editor
-*[Intellij IDEA Ulimate 2017.2](https://www.jetbrains.com/idea/)
+* [Intellij IDEA Ulimate 2017.2](https://www.jetbrains.com/idea/)
 
 ## Reference
 * [LWJGL Book](https://github.com/lwjglgamedev/lwjglbook)
