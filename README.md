@@ -1,5 +1,7 @@
 # LWJGL-Practice
 
+Almost copied from LWJGL Book, but still has some differences.
+
 ## Require
 * [LWJGL 3.1.2](https://www.lwjgl.org/)
 * [JDK 9](http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html)
